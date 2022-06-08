@@ -64,12 +64,12 @@ const UpgradePlanCard = () => {
                 <Grid container direction="column" spacing={2}>
                     <Grid item>
                         <Typography variant="h4">
-                            React Nodejs Berry
+                            Rewired.one
                         </Typography>
                     </Grid>
                     <Grid item>
                         <Typography variant="subtitle2" className={classes.tagLine}>
-                            Open-source full-stack seed project.
+                            Enterprise Blockchain Solutions
                         </Typography>
                     </Grid>
                     <Grid item>
@@ -77,12 +77,12 @@ const UpgradePlanCard = () => {
                             <AnimateButton>
                                 <Button
                                     component={Link}
-                                    href="https://appseed.us/product/react-node-js-berry-dashboard"
+                                    href="https://rewired.one/"
                                     target="_blank"
                                     variant="contained"
                                     className={classes.button}
                                 >
-                                    See Product
+                                    Learn More
                                 </Button>
                             </AnimateButton>
                         </Stack>
